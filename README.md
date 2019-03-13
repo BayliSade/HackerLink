@@ -4,7 +4,7 @@
 
 # Technologies Used
 
-> React, ReactJS, Node/Express, MongoDB/Mongoose ORM, GET/POST routes, Heroku, and Authentication.
+> React, ReactJS, Bootstrap 4, Node/Express, MongoDB/Mongoose ORM, GET/POST routes, Heroku, and Passport Authentication.
 
 
 ## Quick Start
