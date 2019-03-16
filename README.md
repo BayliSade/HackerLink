@@ -1,6 +1,6 @@
 # Hacker-Link
 
-> A developer social networking app built with the MERN stack. 
+> A developer social networking app built with the MERN stack. A platform for hackers to stay connected, inspired by hackathon lassonde and the end of bootcamp
 
 # Technologies Used
 
